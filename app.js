@@ -10,7 +10,7 @@
    chat e o formulário mostram um aviso amigável em vez de enviar
    os dados (nenhuma mensagem é perdida silenciosamente).
 ============================================================ */
-const OJAS_CHAT_WEBHOOK_URL = "https://overfunctioning-undefensibly-johnette.ngrok-free.dev/http:/webhook/1d08054d-8c65-44d8-94ea-2f199427137a/chat";
+const OJAS_CHAT_WEBHOOK_URL = "https://overfunctioning-undefensibly-johnette.ngrok-free.dev/webhook/1d08054d-8c65-44d8-94ea-2f199427137a/chat";
 const OJAS_INTEREST_WEBHOOK_URL = "";
 
 document.getElementById('year').textContent = new Date().getFullYear();
